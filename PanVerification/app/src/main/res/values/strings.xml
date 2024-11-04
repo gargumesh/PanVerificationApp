@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pan Verification</string>
+    <string name="UserSubmitWarning"><![CDATA[Providing PAN & Date of Birth helps us find and fetch your KYC from a central registry by the Government of India. Learn more]]></string>
+</resources>
